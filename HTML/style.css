@@ -1,0 +1,80 @@
+*{box-sizing: border-box;}
+    body{
+        margin: 0px;
+        /* text-shadow: #fff; */
+    }
+    #container{
+            width:800px;
+            border:1px solid gray;
+            margin-left:auto;
+            margin-right:auto;
+            background-color:#105054;
+            border: 5px solid #aaeaed;
+        }
+        .personal{
+            text-align: center;
+        }
+        .card a{
+         margin: 50px; 
+        }
+        .content-right h4{
+            text-emphasis: none;
+            color: rgb(231, 231, 241);
+        }
+        .content-left h4{
+            text-emphasis: none;
+            color:rgb(231, 231, 241);
+        }
+        .personal h1{
+            background-color: rgb(207, 228, 186);
+            color:rgb(1, 1, 19);
+        }
+        .personal p{
+         color: #aaeaed;
+        }
+        .personal h2{   
+            font-size:200% ;
+            color: #fff;
+            text-shadow:
+                0 0 7px #fff,
+                0 0 10px #fff,
+                0 0 21px #fff,
+                0 0 42px #0fa,
+                0 0 82px #0fa,
+                0 0 92px #0fa,
+                0 0 102px #0fa,
+                0 0 151px #0fa;
+        }
+        .card a{
+           font-weight: 700; 
+           color: blanchedalmond;
+        }
+        .career p{
+            color: blanchedalmond;
+            font-size: 150%;
+        }
+        .skill li {
+            color: blanchedalmond;
+        }
+        .interests li {
+            color: blanchedalmond;
+        }
+        .level p{
+            color: blanchedalmond;
+        }
+        .experience p{
+            color: blanchedalmond;
+        }
+        .work li{
+            color: blanchedalmond;
+        }
+        .project p{
+            color: blanchedalmond; 
+            font-size: 2.5ch;
+        }
+        .project a{
+            color: chartreuse;
+            font-size: 3ch;
+            text-decoration: none;
+        }
+       
